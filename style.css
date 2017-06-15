@@ -96,12 +96,6 @@ section {
 	align-items: center;
 }
 
-#home{
-  position: absolute;
-  top: 0;
-  height: 708px;
-}
-
 .h1{
   font-size: 52px;
   margin: 0;
